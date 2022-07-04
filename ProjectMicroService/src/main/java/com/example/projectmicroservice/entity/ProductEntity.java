@@ -15,5 +15,4 @@ public class ProductEntity {
     private String productName ;
     private String productDescription ;
     private double perUnitPrice ;
-    private double testCommit ;
 }
